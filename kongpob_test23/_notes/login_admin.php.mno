@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_admin" value="name:id;datatype:int,name:cade_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:int" />
+	<infoitem key="UD_Rec_register" value="name:id;datatype:int,name:code_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:string" />
+</info>
